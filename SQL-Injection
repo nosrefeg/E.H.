@@ -1,0 +1,8 @@
+O que é SQL Injection?
+    Uma ameaça de segurança que se aproveita das falhas nas formas que os sistemas interagem com o Banco de Dados, manipulando as instruções enviadas.
+
+Impactos Causados:
+    Se pode conseguir as informações presentes no Banco de  Dados do alvo, como endereços, números telefônicos pessoais, cartões de crédito, enttre outros tipos de informaçoes pessoais e documentos estratégicos, no caso de uma empresa.
+
+Acunetix: 
+    Ferramenta para testes e exemplos de falhas no SQL.
