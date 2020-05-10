@@ -1,0 +1,19 @@
+Levantando informações sobre o alvo:
+
+Procurar dados públicos
+Procurar quais sistemas e versões utilizadas
+Procurar pontos de entrada da aplicação
+Verificar quais arquivos e diretórios se tem acesso
+
+Fazer anotações dos dados encontrados
+
+Meios de conseguir informações sobre o alvo:
+
+Google Hacking: meios de pesquisa do google
+WhoIs: pega informações do site ex.: whois apple.com
+archive.org: armazena versões antigas de sites
+Wappalyzer(Chrome): descobre as tecnologias usadas nos sites
+Dirbuster/Dirb: analiza arquivos e diretórios no servidor ex.: dirb https://amazon.com (usa-se o https://, ou seja, link completo)
+Ping ou Dig
+Sites/Redes Sociais de Empregos: ex.: Linkedin, infojobs.com.br, empregos.com.br, www.empregospernambuco.com.br, vagas.com, goowit.com, www.trabalhabrasil.com.br, br.jooble.org, www.indeed.com.br, empregabrasil.mte.gov.br, trampos.co, portal.ciee.org.br
+Analizar código fonte: buscar emails ou caminhos de diretórios(pastas) e outras infos
