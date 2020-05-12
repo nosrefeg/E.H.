@@ -1,0 +1,3 @@
+Formas para defender o sistema:
+
+    Sanitização: É o processo de tratar os dados recebidos do front-end, no back-end, para depois enviar ao banco de dados.
