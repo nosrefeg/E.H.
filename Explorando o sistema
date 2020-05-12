@@ -1,0 +1,3 @@
+Explorar o sistema faz parte do segundo pilar: Attack
+
+Exemplo de sql injection(teste@teste.com' or 1=1;#) onde fecha-se a string email com a aspa simples(') e adiciona uma condição verdadeira(1=1) para que o sql retorne como aceito a query, e o "#" serve para comentar o resto da query necessária, desconsiderando, considerando um login com campos = email e senha, a senha.
