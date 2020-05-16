@@ -11,6 +11,7 @@ Meios de conseguir informações sobre o alvo:
 
 Google Hacking: meios de pesquisa do google
 WhoIs: pega informações do site ex.: whois apple.com
+whatsmyip.org: ferramentas de rede e pesquisa
 archive.org: armazena versões antigas de sites
 Wappalyzer(Chrome): descobre as tecnologias usadas nos sites
 Dirbuster/Dirb: analiza arquivos e diretórios no servidor ex.: dirb https://amazon.com (usa-se o https://, ou seja, link completo)
