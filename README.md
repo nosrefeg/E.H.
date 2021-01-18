@@ -1,2 +1,2 @@
 # codesec
-Anotações CodeSec e Ethical Hacking
+Anotações sobre Ethical Hacking
